@@ -17,7 +17,7 @@ body {
 
 
 .conteudo-principal {
-    display: flex;ser fluente em ingles
+    display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -25,7 +25,7 @@ body {
     width: 100%;
     margin: 0 auto;
 }
-ser fluente em ingles
+
 .titulo-principal {
     text-align: left;
     width: 100%;
